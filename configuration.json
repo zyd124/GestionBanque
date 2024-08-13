@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "ApplicationConnection": "Server=.;Database=Bank;Trusted_Connection=True;TrustServerCertificate=True;Integrated Security=true"
+  }
+}
